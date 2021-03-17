@@ -5,8 +5,11 @@ HTML, CSS, JavaScript, Typescript, NodeJS, ReactJS and React Native development 
 
 <div align="center" >
 
-[![Kaik Oliveira github stats](https://github-readme-stats.vercel.app/api?username=RicardoMaricato&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaikOliveira&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RicardoMaricato&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoMaricato)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaikOliveira&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <div style="align-self: center;align-items: center; display: flex; justify-content: space-between; width: 150px;" >
   <a href="https://www.linkedin.com/in/ricardomaricato/">
