@@ -1,7 +1,10 @@
-### Hi there ✌️ 
+### Hi there, I'm [Ricardo!](https://anuraghazra.github.io) 👋
 
-I'm a full stack developer, passionate about web and mobile front-end.
-HTML, CSS, JavaScript, Typescript, NodeJS, ReactJS and React Native development technologies
+Hi, I'm Ricardo Maricato, a passionate backEnd web developer from Brazil.
+
+**Languages and Tools:**
+
+Java, Spring, Docker, Maven, Angular, Bootstrap, PostgreSQL, Oracle, JUnit, Mockito. 
 
 <div align="center" >
 
