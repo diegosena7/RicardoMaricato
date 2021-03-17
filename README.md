@@ -10,7 +10,7 @@ HTML, CSS, JavaScript, Typescript, NodeJS, ReactJS and React Native development 
 
 <div style="align-self: center;align-items: center; display: flex; justify-content: space-between; width: 150px;" >
   <a href="https://www.linkedin.com/in/ricardomaricato/">
-    <img src="https://github.com/RicardoMaricato/RicardoMaricato" alt="linkedin" height="50">
+    <img src="https://github.com/RicardoMaricato/RicardoMaricato/blob/main/images/linkedin.png" alt="linkedin" height="50">
   </a>
 </div>
 </div>
