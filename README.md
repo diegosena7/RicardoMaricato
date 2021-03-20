@@ -1,4 +1,4 @@
-### Hi there, I'm [Ricardo!](https://anuraghazra.github.io) 👋
+### Hi there, I'm [Ricardo!] 👋
 
 Hi, I'm Ricardo Maricato, a passionate backEnd web developer from Brazil.
 
