@@ -15,9 +15,10 @@ Java, Spring, Docker, Maven, Angular, Bootstrap, PostgreSQL, Oracle, JUnit, Mock
 
 **Social Media:**
 
+<a href="mailto:ricardo.maricato@hotmail.com"><img src="https://github.com/RicardoMaricato/RicardoMaricato/blob/main/images/email.png" 
+alt="email" height="25"/></a>
 <a href="https://www.linkedin.com/in/ricardomaricato/">
-<img src="https://github.com/RicardoMaricato/RicardoMaricato/blob/main/images/linkedin.png" alt="linkedin" height="25">
-</a>
+<img src="https://github.com/RicardoMaricato/RicardoMaricato/blob/main/images/linkedin.png" alt="instagram" height="25"/></a>
 <a href="https://www.instagram.com/ricardomaricato/">
-<img src="https://github.com/RicardoMaricato/RicardoMaricato/blob/main/images/instagram.png" alt="linkedin" height="25">
+<img src="https://github.com/RicardoMaricato/RicardoMaricato/blob/main/images/instagram.png" alt="linkedin" height="25"/></a>
 </p>
