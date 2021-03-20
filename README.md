@@ -7,7 +7,8 @@ Hi, I'm Ricardo Maricato, a passionate backEnd web developer from Brazil.
 Java, Spring, Docker, Maven, Angular, Bootstrap, PostgreSQL, Oracle, JUnit, Mockito. 
 
 <p align="center">
- <img height= "170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RicardoMaricato&layout=compact&theme=dark&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97"/>
+<img height= "170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RicardoMaricato&count_private=true&show_icons=true&theme=dark"/>
+<img height= "170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RicardoMaricato&layout=compact&theme=dark&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97"/>
 
 
 **Social Media:**
