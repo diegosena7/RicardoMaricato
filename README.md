@@ -2,9 +2,19 @@
 
 Hi, I'm Ricardo Maricato, a passionate backEnd web developer from Brazil.
 
-**Languages and Tools:**
+**Technology Stack:**
 
-Java, Spring, Docker, Maven, Angular, Bootstrap, PostgreSQL, Oracle, JUnit, Mockito. 
+<img align="left" alt="Java" width="30px" src="https://github.com/RicardoMaricato/RicardoMaricato/blob/main/images/java.png" />
+<img align="left" alt="Spring" width="30px" src="https://github.com/RicardoMaricato/RicardoMaricato/blob/main/images/spring-1.png" />
+<img align="left" alt="Angular" width="30px" src="https://github.com/RicardoMaricato/RicardoMaricato/blob/main/images/angular.png" />
+<img align="left" alt="Bootstrap" width="30px" src="https://github.com/RicardoMaricato/RicardoMaricato/blob/main/images/boostrap.png" />
+<img align="left" alt="TypeScript" width="30px" src="https://github.com/RicardoMaricato/RicardoMaricato/blob/main/images/type-script.png" />
+<img align="left" alt="Oracle" width="30px" src="https://github.com/RicardoMaricato/RicardoMaricato/blob/main/images/oracle-2.png" />
+<img align="left" alt="Postgresql" width="30px" src="https://github.com/RicardoMaricato/RicardoMaricato/blob/main/images/postgresql-1.png" />
+<img align="left" alt="MongoDB" width="30px" src="https://github.com/RicardoMaricato/RicardoMaricato/blob/main/images/mongo-db.png" />
+<img align="left" alt="JUnit" width="30px" src="https://github.com/RicardoMaricato/RicardoMaricato/blob/main/images/junit-jpg" />
+<img align="left" alt="Mockito" width="30px" src="https://github.com/RicardoMaricato/RicardoMaricato/blob/main/images/mockito.png" />
+
 
 <p align="center">
 <img height= "170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RicardoMaricato&count_private=true&show_icons=true&theme=dark"/>
