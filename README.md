@@ -14,11 +14,11 @@ alt="Angular" height="30"/></a>
 alt="TypeScript" height="30"/></a>
 <a><img src="https://github.com/RicardoMaricato/RicardoMaricato/blob/main/images/docker.png"
 alt="Mockito" height="30"/></a>
-<a><img src="https://github.com/RicardoMaricato/RicardoMaricato/blob/main/images/oracle-2.png" 
+<a><img src="https://github.com/RicardoMaricato/RicardoMaricato/blob/main/images/oracle-3.png" 
 alt="Oracle" height="30"/></a>
 <a><img src="https://github.com/RicardoMaricato/RicardoMaricato/blob/main/images/postgresql-1.png" 
 alt="Postgresql" height="30"/></a>
-<a><img src="https://github.com/RicardoMaricato/RicardoMaricato/blob/main/images/mongo-db.png"
+<a><img src="https://github.com/RicardoMaricato/RicardoMaricato/blob/main/images/mongodb.jpeg"
 alt="MongoDB" height="30"/></a>
 
 <p align="center">
