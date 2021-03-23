@@ -5,21 +5,21 @@ Hi, I'm Ricardo Maricato, a passionate backEnd web developer from Brazil.
 **Technology Stack:**
 
 <a><img src="https://github.com/RicardoMaricato/RicardoMaricato/blob/main/images/java.png"
-alt="Java" height="30"/></a>
+alt="Java" width="30"/></a>
 <a><img src="https://github.com/RicardoMaricato/RicardoMaricato/blob/main/images/spring.png"
-alt="Spring" height="30"/></a>
+alt="Spring" width="30"/></a>
 <a><img src="https://github.com/RicardoMaricato/RicardoMaricato/blob/main/images/angular.png"
-alt="Angular" height="30"/></a>
+alt="Angular" width="30"/></a>
 <a><img src="https://github.com/RicardoMaricato/RicardoMaricato/blob/main/images/type-script.png"
-alt="TypeScript" height="30"/></a>
+alt="TypeScript" width="30"/></a>
 <a><img src="https://github.com/RicardoMaricato/RicardoMaricato/blob/main/images/docker.png"
-alt="Mockito" height="30"/></a>
+alt="Mockito" width="30"/></a>
 <a><img src="https://github.com/RicardoMaricato/RicardoMaricato/blob/main/images/oracle-3.png" 
-alt="Oracle" height="30"/></a>
+alt="Oracle" width="30"/></a>
 <a><img src="https://github.com/RicardoMaricato/RicardoMaricato/blob/main/images/postgresql-1.png" 
-alt="Postgresql" height="30"/></a>
+alt="Postgresql" width="30"/></a>
 <a><img src="https://github.com/RicardoMaricato/RicardoMaricato/blob/main/images/mongodb.jpeg"
-alt="MongoDB" height="30"/></a>
+alt="MongoDB" width="30"/></a>
 
 <p align="center">
 <img height= "170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RicardoMaricato&count_private=true&show_icons=true&theme=dark"/>
