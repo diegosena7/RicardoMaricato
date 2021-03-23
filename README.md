@@ -24,7 +24,7 @@ alt="MongoDB" width="30"/></a>
 <br />
 <br />
 <br />
-<br />
+
 
 <p align="center">
 <img height= "170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RicardoMaricato&count_private=true&show_icons=true&theme=dark"/>
