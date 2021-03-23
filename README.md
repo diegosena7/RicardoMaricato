@@ -4,16 +4,26 @@ Hi, I'm Ricardo Maricato, a passionate backEnd web developer from Brazil.
 
 **Technology Stack:**
 
-<img align="left" alt="Java" width="30px" src="https://github.com/RicardoMaricato/RicardoMaricato/blob/main/images/java.png" />
-<img align="left" alt="Spring" width="30px" src="https://github.com/RicardoMaricato/RicardoMaricato/blob/main/images/spring-1.png" />
-<img align="left" alt="Angular" width="30px" src="https://github.com/RicardoMaricato/RicardoMaricato/blob/main/images/angular.png" />
-<img align="left" alt="Bootstrap" width="30px" src="https://github.com/RicardoMaricato/RicardoMaricato/blob/main/images/boostrap.png" />
-<img align="left" alt="TypeScript" width="30px" src="https://github.com/RicardoMaricato/RicardoMaricato/blob/main/images/type-script.png" />
-<img align="left" alt="Oracle" width="30px" src="https://github.com/RicardoMaricato/RicardoMaricato/blob/main/images/oracle-2.png" />
-<img align="left" alt="Postgresql" width="30px" src="https://github.com/RicardoMaricato/RicardoMaricato/blob/main/images/postgresql-1.png" />
-<img align="left" alt="MongoDB" width="30px" src="https://github.com/RicardoMaricato/RicardoMaricato/blob/main/images/mongo-db.png" />
-<img align="left" alt="JUnit" width="30px" src="https://github.com/RicardoMaricato/RicardoMaricato/blob/main/images/junit-jpg" />
-<img align="left" alt="Mockito" width="30px" src="https://github.com/RicardoMaricato/RicardoMaricato/blob/main/images/mockito.png" />
+<a><img src="https://github.com/RicardoMaricato/RicardoMaricato/blob/main/images/java.png"
+alt="Java" height="30"/></a>
+<a><img src="https://github.com/RicardoMaricato/RicardoMaricato/blob/main/images/spring-1.png"
+alt="Spring" height="30"/></a>
+<a><img src="https://github.com/RicardoMaricato/RicardoMaricato/blob/main/images/angular.png"
+alt="Angular" height="30"/></a>
+<a><img src="https://github.com/RicardoMaricato/RicardoMaricato/blob/main/images/angular.png"
+alt="Angular" height="30"/></a>
+<a><img src="https://github.com/RicardoMaricato/RicardoMaricato/blob/main/images/type-script.png"
+alt="TypeScript" height="30"/></a>
+<a><img src="https://github.com/RicardoMaricato/RicardoMaricato/blob/main/images/oracle-2.png" 
+alt="Oracle" height="30"/></a>
+<a><img src="https://github.com/RicardoMaricato/RicardoMaricato/blob/main/images/postgresql-1.png" 
+alt="Postgresql" height="30"/></a>
+<a><img src="https://github.com/RicardoMaricato/RicardoMaricato/blob/main/images/mongo-db.png"
+alt="MongoDB" height="30"/></a>
+<a><img src="https://github.com/RicardoMaricato/RicardoMaricato/blob/main/images/junit.jpg"
+alt="JUnit" height="30"/></a>
+<a><img src="https://github.com/RicardoMaricato/RicardoMaricato/blob/main/images/mockito.png"
+alt="Mockito" height="30"/></a>
 
 
 <p align="center">
