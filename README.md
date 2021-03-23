@@ -4,10 +4,10 @@ Hi, I'm Ricardo Maricato, a passionate backEnd web developer from Brazil.
 
 **Technology Stack:**
 
-<a><img align="left" src="https://github.com/RicardoMaricato/RicardoMaricato/blob/main/images/java-1.png"
-alt="Java" width="30"/></a>
-<a><img align="left" src="https://github.com/RicardoMaricato/RicardoMaricato/blob/main/images/spring.png"
-alt="Spring" width="30"/></a>
+<div><img align="left" src="https://github.com/RicardoMaricato/RicardoMaricato/blob/main/images/java-1.png"
+alt="Java" width="30"/></div>
+<div><img align="left" src="https://github.com/RicardoMaricato/RicardoMaricato/blob/main/images/spring.png"
+alt="Spring" width="30"/></div>
 <a><img align="left" src="https://github.com/RicardoMaricato/RicardoMaricato/blob/main/images/angular.png"
 alt="Angular" width="30"/></a>
 <a><img align="left" src="https://github.com/RicardoMaricato/RicardoMaricato/blob/main/images/type-script.png"
