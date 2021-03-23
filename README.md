@@ -4,7 +4,7 @@ Hi, I'm Ricardo Maricato, a passionate backEnd web developer from Brazil.
 
 **Technology Stack:**
 
-<a><img src="https://github.com/RicardoMaricato/RicardoMaricato/blob/main/images/java.png"
+<a><img src="https://github.com/RicardoMaricato/RicardoMaricato/blob/main/images/java-1.png"
 alt="Java" width="30"/></a>
 <a><img src="https://github.com/RicardoMaricato/RicardoMaricato/blob/main/images/spring.png"
 alt="Spring" width="30"/></a>
