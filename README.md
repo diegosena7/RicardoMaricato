@@ -1,6 +1,8 @@
-### Hi there, I'm [Ricardo!](https://anuraghazra.github.io) 👋
+### Hi there, I'm [Ricardo Maricato](https://anuraghazra.github.io), I'm a Software Enginner from Brazil! 👋
 
-Hi, I'm Ricardo Maricato, a passionate backEnd web developer from Brazil.
+**I work with**
+
+Today I'm a Software Engineer with a focus on Java, Microsservices, Spring Framework. But I like to work in other technologies too.
 
 **Technology Stack:**
 
