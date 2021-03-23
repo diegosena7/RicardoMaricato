@@ -4,10 +4,10 @@ Hi, I'm Ricardo Maricato, a passionate backEnd web developer from Brazil.
 
 **Technology Stack:**
 
-<div><img align="left" src="https://github.com/RicardoMaricato/RicardoMaricato/blob/main/images/java-1.png"
-alt="Java" width="30" height="30"/></div>
-<div><img align="left" src="https://github.com/RicardoMaricato/RicardoMaricato/blob/main/images/spring.png"
-alt="Spring" width="30"/></div>
+<a><img align="left" src="https://github.com/RicardoMaricato/RicardoMaricato/blob/main/images/java-1.png"
+alt="Java" width="40" height="30"/></a>
+<a><img align="left" src="https://github.com/RicardoMaricato/RicardoMaricato/blob/main/images/spring.png"
+alt="Spring" width="30"/></a>
 <a><img align="left" src="https://github.com/RicardoMaricato/RicardoMaricato/blob/main/images/angular.png"
 alt="Angular" width="30"/></a>
 <a><img align="left" src="https://github.com/RicardoMaricato/RicardoMaricato/blob/main/images/type-script.png"
@@ -21,7 +21,8 @@ alt="Postgresql" width="30"/></a>
 <a><img align="left" src="https://github.com/RicardoMaricato/RicardoMaricato/blob/main/images/mongodb.jpeg"
 alt="MongoDB" width="30"/></a>
 
-
+<br />
+<br />
 
 <p align="center">
 <img height= "170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RicardoMaricato&count_private=true&show_icons=true&theme=dark"/>
