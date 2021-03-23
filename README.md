@@ -13,7 +13,7 @@ alt="Angular" width="30"/></a>
 <a><img align="left" src="https://github.com/RicardoMaricato/RicardoMaricato/blob/main/images/type-script.png"
 alt="TypeScript" width="30"/></a>
 <a><img align="left" src="https://github.com/RicardoMaricato/RicardoMaricato/blob/main/images/docker.png"
-alt="Mockito" width="30"/></a>
+alt="Docker" width="30"/></a>
 <a><img align="left" src="https://github.com/RicardoMaricato/RicardoMaricato/blob/main/images/oracle-3.png" 
 alt="Oracle" width="30"/></a>
 <a><img align="left" src="https://github.com/RicardoMaricato/RicardoMaricato/blob/main/images/postgresql.png" 
