@@ -16,7 +16,7 @@ alt="TypeScript" width="30"/></a>
 alt="Mockito" width="30"/></a>
 <a><img src="https://github.com/RicardoMaricato/RicardoMaricato/blob/main/images/oracle-3.png" 
 alt="Oracle" width="30"/></a>
-<a><img src="https://github.com/RicardoMaricato/RicardoMaricato/blob/main/images/postgresql-1.png" 
+<a><img src="https://github.com/RicardoMaricato/RicardoMaricato/blob/main/images/postgresql.png" 
 alt="Postgresql" width="30"/></a>
 <a><img src="https://github.com/RicardoMaricato/RicardoMaricato/blob/main/images/mongodb.jpeg"
 alt="MongoDB" width="30"/></a>
