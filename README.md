@@ -4,21 +4,21 @@ Hi, I'm Ricardo Maricato, a passionate backEnd web developer from Brazil.
 
 **Technology Stack:**
 
-<a><img src="https://github.com/RicardoMaricato/RicardoMaricato/blob/main/images/java-1.png"
+<a><img align="left" src="https://github.com/RicardoMaricato/RicardoMaricato/blob/main/images/java-1.png"
 alt="Java" width="30"/></a>
-<a><img src="https://github.com/RicardoMaricato/RicardoMaricato/blob/main/images/spring.png"
+<a><img align="left" src="https://github.com/RicardoMaricato/RicardoMaricato/blob/main/images/spring.png"
 alt="Spring" width="30"/></a>
-<a><img src="https://github.com/RicardoMaricato/RicardoMaricato/blob/main/images/angular.png"
+<a><img align="left" src="https://github.com/RicardoMaricato/RicardoMaricato/blob/main/images/angular.png"
 alt="Angular" width="30"/></a>
-<a><img src="https://github.com/RicardoMaricato/RicardoMaricato/blob/main/images/type-script.png"
+<a><img align="left" src="https://github.com/RicardoMaricato/RicardoMaricato/blob/main/images/type-script.png"
 alt="TypeScript" width="30"/></a>
-<a><img src="https://github.com/RicardoMaricato/RicardoMaricato/blob/main/images/docker.png"
+<a><img align="left" src="https://github.com/RicardoMaricato/RicardoMaricato/blob/main/images/docker.png"
 alt="Mockito" width="30"/></a>
-<a><img src="https://github.com/RicardoMaricato/RicardoMaricato/blob/main/images/oracle-3.png" 
+<a><img align="left" src="https://github.com/RicardoMaricato/RicardoMaricato/blob/main/images/oracle-3.png" 
 alt="Oracle" width="30"/></a>
-<a><img src="https://github.com/RicardoMaricato/RicardoMaricato/blob/main/images/postgresql.png" 
+<a><img align="left" src="https://github.com/RicardoMaricato/RicardoMaricato/blob/main/images/postgresql.png" 
 alt="Postgresql" width="30"/></a>
-<a><img src="https://github.com/RicardoMaricato/RicardoMaricato/blob/main/images/mongodb.jpeg"
+<a><img align="left" src="https://github.com/RicardoMaricato/RicardoMaricato/blob/main/images/mongodb.jpeg"
 alt="MongoDB" width="30"/></a>
 
 <p align="center">
