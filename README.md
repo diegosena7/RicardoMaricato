@@ -29,8 +29,6 @@ alt="MongoDB" width="30"/></a>
 
 
 <p align="center">
-<!-- <img height= "170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RicardoMaricato&count_private=true&show_icons=true&theme=dark"/> -->
-<!-- <img height= "170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RicardoMaricato&layout=compact&theme=dark&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97"/> -->
 <img height= "170em" src="https://github-readme-stats.vercel.app/api?username=RicardoMaricato&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97&count_private=true"/>
 <img height= "170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoMaricato&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97&hide=CSharp"/>
 
