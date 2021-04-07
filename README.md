@@ -1,10 +1,8 @@
-### Hi there, I'm [Ricardo Maricato](https://anuraghazra.github.io), I'm a Software Enginner from Brazil! 👋
+### Hi there, I'm [Ricardo Maricato](https://anuraghazra.github.io), Olá, me chamo Diego Sena, estudante de Análise e Desenvolvimento de Sistemas e Desenvolvedor Fullstack! 👋
 
-**I work with**
+Hoje sou um Desenvolvedor de Sistemas com foco em Java, JSF, Primefaces ,Spring Framework, com o Front End trabalho com HTML, CSS, Bootstrap e Angular, Banco de Dados MySQL e ORacle.
 
-Today I'm a Software Engineer with a focus on Java, Microsservices, Spring Framework. But I like to work in other technologies too.
-
-**Technology Stack:**
+**Tecnologias:**
 
 <a><img align="left" src="https://github.com/RicardoMaricato/RicardoMaricato/blob/main/images/java-1.png"
 alt="Java" width="30"/></a>
@@ -35,10 +33,10 @@ alt="MongoDB" width="30"/></a>
 
 **Social Media:**
 
-<a href="mailto:ricardo.maricato@hotmail.com"><img align="left" src="https://github.com/RicardoMaricato/RicardoMaricato/blob/main/images/email.png" 
+<a href="mailto:ricardo.maricato@hotmail.com" target="_blank"><img align="left" src="https://github.com/RicardoMaricato/RicardoMaricato/blob/main/images/email.png"  
 alt="email" height="25"/></a>
-<a href="https://www.linkedin.com/in/ricardomaricato/">
-<img align="left" src="https://github.com/RicardoMaricato/RicardoMaricato/blob/main/images/linkedin.png" alt="instagram" height="25"/></a>
-<a href="https://www.instagram.com/ricardomaricato/">
+<a href="https://www.linkedin.com/in/ricardomaricato/" target="_blank">
+<img align="left" src="https://github.com/RicardoMaricato/RicardoMaricato/blob/main/images/linkedin.png" alt="linkedin" height="25"/></a>
+<a href="https://diegossena.com.br/" target="_blank">
 <img align="left" src="https://github.com/RicardoMaricato/RicardoMaricato/blob/main/images/instagram.png" alt="linkedin" height="25"/></a>
 </p>
